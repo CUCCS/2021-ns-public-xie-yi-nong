@@ -66,7 +66,7 @@
 
 ##### 3. 绘制用户使用用户名/口令+图片验证码方式录系统的流程图。考虑认证成功和失败两种场景，考虑授权成功和失败两种场景。
 
-![login_process](.\img\login_process.png)
+![login_process](./img/login_process.png)
 
 ##### 4. Windows XP / 7 中的访问控制策略有哪些？访问控制机制有哪些？
 
@@ -142,7 +142,7 @@
   - 验证服务将用户认证信息返回给子系统；
   - 子系统构建用户验证信息后将授权后的内容返回给客户端。
 
-![OPenID](.\img\openid.png)
+![OPenID](./img/openid.png)
 
 ### 参考文献
 
